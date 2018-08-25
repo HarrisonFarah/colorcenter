@@ -52,6 +52,7 @@ section {
 
 body::-webkit-scrollbar {
     width: .5em;
+    background-color: #f8f9fa;
 }
 
 body::-webkit-scrollbar-track {
