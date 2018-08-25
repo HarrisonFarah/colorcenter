@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c5543ea-c6b2-4808-a031-959effe04e99" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/scrolling-nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/scrolling-nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +15,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
+            <state relative-caret-position="2601">
+              <caret line="153" column="28" lean-forward="true" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#video#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="17">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -41,6 +46,7 @@
     <findStrings>
       <find>background-color</find>
       <find>#dc3545</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\	\&lt;head\&gt;\n\	\	\&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n\	\	\&lt;meta content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot; name\=\&quot;viewport\&quot;\&gt;\n\	\	\&lt;meta content\=\&quot;\&quot; name\=\&quot;description\&quot;\&gt;\n\	\	\&lt;meta content\=\&quot;Connor Parsons\&quot; name\=\&quot;author\&quot;\&gt;\n\	\	\&lt;meta content\=\&quot;QMR_nUviMSayitihCWgIezRqbncokHLjQEZT0LSBNns\&quot; name\=\&quot;google\-site\-verification\&quot;\/\&gt;\n\	\	\&lt;title\&gt;Marketplace Web Design\&lt;\/title\&gt;\n\	\	\&lt;link rel\=\&quot;shortcut icon\&quot; href\=\&quot;favicon\.ico\&quot;\&gt;\n\	\	\&lt;\!\-\- Bootstrap core CSS \-\-\&gt;\n\	\	\&lt;link href\=\&quot;css\/bootstrap\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\	\	\&lt;\!\-\- Custom styles for this template \-\-\&gt;\n\	\	\&lt;link href\=\&quot;css\/scrolling\-nav\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\	\&lt;\/head\&gt;\n\	\&lt;body class\=\&quot;animated fadeIn\&quot; id\=\&quot;page\-top\&quot;\&gt;\n\	\	\&lt;\!\-\- Navigation \-\-\&gt;\n\	\	\&lt;nav class\=\&quot;hidden\-md\-down navbar navbar\-expand\-lg navbar\-light bg\-danger fixed\-top shadow\-lg\&quot; id\=\&quot;mainNav\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\	\	\&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\#page\-top\&quot;\&gt;\n\	\	\	\	\	\&lt;img alt\=\&quot;Logo\&quot; src\=\&quot;logo\.svg\&quot; style\=\&quot;max\-width\: 8\%\; padding\-right\: 1em\&quot;\&gt;\n\	\	\	\	\	\	Newtown Color Center\n\	\	\	\	\	\&lt;\/img\&gt;\n\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\&lt;button aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot; class\=\&quot;navbar\-toggler\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; data\-toggle\=\&quot;collapse\&quot; type\=\&quot;button\&quot;\&gt;\n\	\	\	\	\	\&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\n\	\	\	\	\	\&lt;\/span\&gt;\n\	\	\	\	\&lt;\/button\&gt;\n\	\	\	\	\&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n\	\	\	\	\	\&lt;ul class\=\&quot;navbar\-nav ml\-auto\&quot;\&gt;\n\	\	\	\	\	\	\&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;a class\=\&quot;nav\-link js\-scroll\-trigger\&quot; href\=\&quot;\#about\&quot;\&gt;\n\	\	\	\	\	\	\	\	About\n\	\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;a class\=\&quot;nav\-link js\-scroll\-trigger\&quot; href\=\&quot;\#services\&quot;\&gt;\n\	\	\	\	\	\	\	\	Brands\n\	\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;a class\=\&quot;nav\-link js\-scroll\-trigger\&quot; href\=\&quot;\#contact\&quot;\&gt;\n\	\	\	\	\	\	\	\	Contact\n\	\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/nav\&gt;\n\	\	\&lt;header class\=\&quot;text\-white\&quot;\&gt;\n\	\	\	\&lt;video autoplay\=\&quot;\&quot; id\=\&quot;video\-background\&quot; loop\=\&quot;\&quot; muted\=\&quot;\&quot; plays\-inline\=\&quot;\&quot; style\=\&quot;\n\	\	\	z\-index\: \-100\;\n\	\	\	right\: 0\;\n\	\	\	bottom\: 0\;\n\	\	\	position\: absolute\;\n\	\	\	max\-width\: 100\%\;\n\	\	\	width\: 100\%\;\n\	\	\	max\-height\: 100\%\;\n\	\	\	height\: 100\%\;\n\	\	\	object\-fit\: cover\;\n\	\	\	\&quot;\&gt;\n\	\	\	\	\&lt;source src\=\&quot;paint\.mp4\&quot; type\=\&quot;video\/mp4\&quot;\&gt;\n\	\	\	\	\&lt;\/source\&gt;\n\	\	\	\&lt;\/video\&gt;\n\	\	\	\&lt;div class\=\&quot;container text\-center\&quot;\&gt;\n\	\	\	\	\&lt;h1\&gt;\n\	\	\	\	\	Newtown Color Center\n\	\	\	\	\&lt;\/h1\&gt;\n\	\	\	\	\&lt;p class\=\&quot;lead\&quot;\&gt;\n\	\	\	\	\	\(203\)\-426\-4449\n\	\	\	\	\	\&lt;br\&gt;\n\	\	\	\	\	\	5 Queen St\, Newtown\, CT 06470\n\	\	\	\	\	\&lt;\/br\&gt;\n\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/header\&gt;\n\	\	\&lt;section class\=\&quot;bg\-white\&quot; id\=\&quot;about\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;col\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h2\&gt;\n\	\	\	\	\	\	\	About us\n\	\	\	\	\	\	\&lt;\/h2\&gt;\n\	\	\	\	\	\	\&lt;p class\=\&quot;lead\&quot;\&gt;\n\	\	\	\	\	\	\	\&quot;Lorem ipsum dolor sit amet\, consectetur adipiscing elit\, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua\. Ut enim ad minim veniam\, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat\. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur\. Excepteur sint occaecat cupidatat non proident\, sunt in culpa qui officia deserunt mollit anim id est laborum\.\&quot;\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\	\&lt;ul\&gt;\n\	\	\	\	\	\	\	\&lt;li\&gt;\n\	\	\	\	\	\	\	\	Thing \#1\n\	\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\	\	\&lt;li\&gt;\n\	\	\	\	\	\	\	\	Thing \#2\n\	\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\	\	\&lt;li\&gt;\n\	\	\	\	\	\	\	\	Thing \#3\n\	\	\	\	\	\	\	\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;col text\-center d\-none d\-sm\-block d\-md\-block\&quot;\&gt;\n\	\	\	\	\	\	\&lt;img alt\=\&quot;Paint\&quot; src\=\&quot;\/colorcenter\/paint\.webp\&quot; style\=\&quot;max\-width\: 80\%\&quot;\&gt;\n\	\	\	\	\	\	\&lt;\/img\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/section\&gt;\n\	\	\&lt;section style\=\&quot;padding\-left\: 10\%\;padding\-right\: 10\%\;\&quot; class\=\&quot;bg\-light\&quot; id\=\&quot;services\&quot;\&gt;\n\	\	\	\&lt;h2 class\=\&quot;text\-center text\-justify\&quot;\&gt;\n\	\	\	\	Our Brands\n\	\	\	\&lt;\/h2\&gt;\n\	\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\	  \&lt;div class\=\&quot;col\-md\&quot;\&gt;\&lt;img class\=\&quot;brand\&quot; src\=\&quot;\/colorcenter\/brands\/cabot\.webp\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\	  \&lt;div class\=\&quot;col\-sm\&quot;\&gt;\&lt;img class\=\&quot;brand\&quot; src\=\&quot;\/colorcenter\/brands\/benjaminmoore\.webp\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\	  \&lt;div class\=\&quot;col\-sm\&quot;\&gt;\&lt;img class\=\&quot;brand\&quot; src\=\&quot;\/colorcenter\/brands\/penofin\.webp\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\	  \&lt;div class\=\&quot;col\-sm\&quot;\&gt;\&lt;img class\=\&quot;brand\&quot; src\=\&quot;\/colorcenter\/brands\/OldVillage\.webp\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\	  \&lt;div class\=\&quot;col\-sm\&quot;\&gt;\&lt;img class\=\&quot;brand\&quot; src\=\&quot;\/colorcenter\/brands\/sikkens\.webp\&quot;\&gt;\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/section\&gt;\n\	\	\&lt;section id\=\&quot;contact\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;col\-lg\-8 mx\-auto contactdesktop\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h2\&gt;\n\	\	\	\	\	\	\	Contact us\n\	\	\	\	\	\	\&lt;\/h2\&gt;\n\	\	\	\	\	\	\&lt;a class\=\&quot;btn btn\-lg btn\-block text\-left text\-uppercase\&quot; href\=\&quot;tel\:203\-426\-4449 \&quot;\&gt;\n\	\	\	\	\	\	\	Phone\: \(203\)\-426\-4449 \n\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;a class\=\&quot;btn btn\-lg btn\-block text\-left text\-uppercase\&quot; href\=\&quot;mailto\:newtowncolorcenter\@gmail\.com\&quot;\&gt;\n\	\	\	\	\	\	\	Email\: newtowncolorcenter\@gmail\.com\n\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;col\-lg\-8 mx\-auto contactmobile\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h2\&gt;\n\	\	\	\	\	\	\	Contact us\n\	\	\	\	\	\	\&lt;\/h2\&gt;\n\	\	\	\	\	\	\&lt;a class\=\&quot;btn btn\-lg btn\-block text\-left text\-uppercase\&quot; href\=\&quot;tel\:203\-426\-4449 \&quot;\&gt;\n\	\	\	\	\	\	\	\(203\)\-426\-4449 \n\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;a class\=\&quot;btn btn\-lg btn\-block text\-left text\-uppercase\&quot; href\=\&quot;mailto\:newtowncolorcenter\@gmail\.com\&quot;\&gt;\n\	\	\	\	\	\	\	Email\n\	\	\	\	\	\	\&lt;\/a\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/section\&gt;\n\	\	\&lt;\!\-\- Footer \-\-\&gt;\n\	\	\&lt;footer class\=\&quot;py\-3 bg\-dark\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\	\	\&lt;p class\=\&quot;m\-0 text\-center text\-white\&quot;\&gt;\n\	\	\	\	\	Copyright \© Newtown Color Center 2018\n\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\!\-\- \/\.container \-\-\&gt;\n\	\	\&lt;\/footer\&gt;\n\	\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n\&lt;\!\-\- Bootstrap core JavaScript \-\-\&gt;\n\&lt;script src\=\&quot;js\/jquery\.js\&quot;\&gt;\n\&lt;\/script\&gt;\n\&lt;script src\=\&quot;js\/bootstrap\.js\&quot;\&gt;\n\&lt;\/script\&gt;\n\&lt;\!\-\- Plugin JavaScript \-\-\&gt;\n\&lt;script src\=\&quot;js\/jquery\.easing\.js\&quot;\&gt;\n\&lt;\/script\&gt;\n\&lt;\!\-\- Custom JavaScript for this theme \-\-\&gt;\n\&lt;script src\=\&quot;js\/scrolling\-nav\.js\&quot;\&gt;\n\&lt;\/script\&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -99,6 +105,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -124,31 +131,32 @@
       <option name="presentableId" value="Default" />
       <updated>1535217009781</updated>
       <workItem from="1535217011066" duration="910000" />
+      <workItem from="1535228931057" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="910000" />
+    <option name="totallyTimeSpent" value="978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.15840517" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.15840517" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3297414" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -163,18 +171,41 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
+        <state relative-caret-position="1258">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#video#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
+        <state relative-caret-position="425">
           <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="153" column="28" lean-forward="true" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#video#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -54,6 +54,19 @@ html {
   width: device-width;
 }
 
+.contactmobile {
+display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .contactdesktop {
+    display: none;
+  }
+  .contactmobile {
+    display: block !important;
+  }
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
@@ -320,26 +333,15 @@ legend {
 .brand {
 	-webkit-filter: grayscale(100%);
 	height: auto;
-    width: 10rem;
+    width: 30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10%;
 }
 
 .brand:hover {
 	-webkit-filter: grayscale(0%);
-	height: auto;
-    width: 10rem;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-.brand2 {
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 4%;
 }
 
 progress {
